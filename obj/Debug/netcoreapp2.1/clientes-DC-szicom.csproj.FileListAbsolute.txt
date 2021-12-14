@@ -1,0 +1,13 @@
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\bin\Debug\netcoreapp2.1\clientes-DC-szicom.deps.json
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\bin\Debug\netcoreapp2.1\clientes-DC-szicom.runtimeconfig.json
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\bin\Debug\netcoreapp2.1\clientes-DC-szicom.runtimeconfig.dev.json
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\bin\Debug\netcoreapp2.1\clientes-DC-szicom.dll
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\bin\Debug\netcoreapp2.1\clientes-DC-szicom.pdb
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.csproj.AssemblyReference.cache
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.AssemblyInfoInputs.cache
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.AssemblyInfo.cs
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.csproj.CoreCompileInputs.cache
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.dll
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.pdb
+C:\Users\magalip\Source\Repos\clientes-FD-szicom\obj\Debug\netcoreapp2.1\clientes-DC-szicom.genruntimeconfig.cache
