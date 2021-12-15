@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clientes-DC-szicom", "clien
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModeloDatos", "..\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\ModeloDatos.csproj", "{5F3863B1-1E28-43C5-8E93-183579F41553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importador", "..\Importador\Importador.csproj", "{EA8A7388-55CB-4930-BCA9-7F54B71D982D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorService", "..\CalculadorService\CalculadorService.csproj", "{6DA8166D-DA1A-46A9-A6D6-21CD448562AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadorService", "..\CalculadorService\CalculadorService.csproj", "{6DA8166D-DA1A-46A9-A6D6-21CD448562AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		{5F3863B1-1E28-43C5-8E93-183579F41553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3863B1-1E28-43C5-8E93-183579F41553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3863B1-1E28-43C5-8E93-183579F41553}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EA8A7388-55CB-4930-BCA9-7F54B71D982D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA8A7388-55CB-4930-BCA9-7F54B71D982D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA8A7388-55CB-4930-BCA9-7F54B71D982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA8A7388-55CB-4930-BCA9-7F54B71D982D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6DA8166D-DA1A-46A9-A6D6-21CD448562AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6DA8166D-DA1A-46A9-A6D6-21CD448562AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DA8166D-DA1A-46A9-A6D6-21CD448562AB}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj": {}
+    "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj": {
+    "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
+        "projectUniqueName": "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
         "projectName": "clientes-DC-szicom",
-        "projectPath": "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
+        "projectPath": "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
         "packagesPath": "C:\\Users\\magalip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\obj\\",
+        "outputPath": "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\magalip\\AppData\\Roaming\\NuGet\\NuGet.Config",

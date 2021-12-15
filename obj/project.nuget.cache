@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/5ZsObUvYlRLPVQ6SN+2KfI3205EPqIoOtKUxJpjJuv0gpZj1yggJzKxFCsnw4vk5OgnKs7dGTNtzJB3HKKWA==",
+  "dgSpecHash": "px4FQ6SsERBtMWAinmdDwaH5ZZ8Q6HBJiJxdUKcb8/CAnNOG9RfueNpyeOX71Og84r/zBMvm3fjNPhOVZRjGMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\magalip\\Source\\Repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
+  "projectFilePath": "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
