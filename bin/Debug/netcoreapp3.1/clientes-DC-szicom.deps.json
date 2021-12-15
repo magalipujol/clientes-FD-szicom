@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "clientes-DC-szicom/1.0.0": {
+        "dependencies": {
+          "CalculadoraService": "1.0.0",
+          "Importador": "1.0.0",
+          "ModeloDatos": "1.0.0"
+        },
+        "runtime": {
+          "clientes-DC-szicom.dll": {}
+        }
+      },
+      "CalculadoraService/1.0.0": {
+        "dependencies": {
+          "Importador": "1.0.0",
+          "ModeloDatos": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraService.dll": {}
+        }
+      },
+      "Importador/1.0.0": {
+        "dependencies": {
+          "ModeloDatos": "1.0.0"
+        },
+        "runtime": {
+          "Importador.dll": {}
+        }
+      },
+      "ModeloDatos/1.0.0": {
+        "runtime": {
+          "ModeloDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clientes-DC-szicom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Importador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

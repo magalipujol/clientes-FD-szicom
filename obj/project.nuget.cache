@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "px4FQ6SsERBtMWAinmdDwaH5ZZ8Q6HBJiJxdUKcb8/CAnNOG9RfueNpyeOX71Og84r/zBMvm3fjNPhOVZRjGMw==",
+  "dgSpecHash": "003CyojIMudOIG85kD/W84iscsY2OdbiytkTcTkaYaqeD1UHQA/dcsfPpeLkeJB3aW8/3Gd+YFOnoPJ46Nt0fA==",
   "success": true,
   "projectFilePath": "C:\\Users\\magalip\\source\\repos\\clientes-FD-szicom\\clientes-DC-szicom.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\magalip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
