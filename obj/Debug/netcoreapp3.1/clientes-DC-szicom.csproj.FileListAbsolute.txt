@@ -18,4 +18,3 @@ C:\Users\magalip\source\repos\clientes-FD-szicom\obj\Debug\netcoreapp3.1\cliente
 C:\Users\magalip\source\repos\clientes-FD-szicom\obj\Debug\netcoreapp3.1\clientes-DC-szicom.genruntimeconfig.cache
 C:\Users\magalip\source\repos\clientes-FD-szicom\bin\Debug\netcoreapp3.1\CalculadoraService.dll
 C:\Users\magalip\source\repos\clientes-FD-szicom\bin\Debug\netcoreapp3.1\CalculadoraService.pdb
-C:\Users\magalip\source\repos\clientes-FD-szicom\obj\Debug\netcoreapp3.1\clientes-DC-szicom.csproj.CopyComplete
