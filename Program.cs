@@ -22,11 +22,16 @@ namespace clientes_DC_szicom
             int unaSuma = servicios.Where(s => s.FechaInicio <= fechaInicio && s.FechaFin >= fechaFin && s.IdCliente == 665)
                           .Sum(s => s.CDC);
 
-            var query = (from servicio in servicios
-                        join cliente in clientes
-                        on servicio.IdCliente equals cliente.Id
-                        where servicio.FechaInicio <= fechaInicio && servicio.FechaFin >= fechaFin && servicio.Firme == "S" && servicio.CDC != 0
-                        select cliente).ToList();
+            var query = servicios.Where(s => s.FechaInicio <= fechaInicio &&
+                                   s.FechaFin >= fechaFin &&
+                                   s.IdCliente == 665 && s.CDC != 0)
+                .Take(1)
+                            ;
+
+            foreach (var cliente in query)
+            {
+                Console.WriteLine(cliente.CDC.GetType());
+            }
 
 
 
