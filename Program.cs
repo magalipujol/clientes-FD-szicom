@@ -17,21 +17,19 @@ namespace clientes_DC_szicom
             var clientes = Parser.TxtToClients("C:/Users/magalip/Documents/Datos problema/Datos Problemas/clientes.txt");
 
             DateTime fechaInicio = new DateTime(2017, 8, 1);
-            DateTime fechaFin = new DateTime(2017, 8, 31); 
+            DateTime fechaFin = new DateTime(2017, 8, 31);
 
-            int unaSuma = servicios.Where(s => s.FechaInicio <= fechaInicio && s.FechaFin >= fechaFin && s.IdCliente == 665)
-                          .Sum(s => s.CDC);
+            var clientesVolContratado = Filtro.FiltrarClientesConVolContratado(clientes, servicios);
+            var clientesConConsumo = Filtro.FiltrarClientesConUnConsumo(clientesVolContratado, consumos);
+            var clientesFD = Filtro.FiltrarClientesFD(clientesConConsumo);
 
-            var query = servicios.Where(s => s.FechaInicio <= fechaInicio &&
-                                   s.FechaFin >= fechaFin &&
-                                   s.IdCliente == 665 && s.CDC != 0)
-                .Take(1)
-                            ;
+            Console.WriteLine($"clientes con vol contratado (286) {clientesVolContratado.Count()}");
+            Console.WriteLine($"clientes con consumo (11284) {clientesConConsumo.Count()}");
+            Console.WriteLine($"clientes FD (49) {clientesFD.Count()}");
+                
+           
 
-            foreach (var cliente in query)
-            {
-                Console.WriteLine(cliente.CDC.GetType());
-            }
+
 
 
 
