@@ -22,6 +22,10 @@ namespace clientes_DC_szicom
             var clientesVolContratado = Filtro.FiltrarClientesConVolContratado(clientes, servicios);
             var clientesConConsumo = Filtro.FiltrarClientesConUnConsumo(clientesVolContratado, consumos);
             var clientesFD = Filtro.FiltrarClientesFD(clientesConConsumo);
+            var clientesConCDC = Filtro.ClientesConCDC(servicios, fechaInicio);
+
+                Console.WriteLine(clientesConCDC.Count());
+
 
             Console.WriteLine($"clientes con vol contratado (286) {clientesVolContratado.Count()}");
             Console.WriteLine($"clientes con consumo (11284) {clientesConConsumo.Count()}");
