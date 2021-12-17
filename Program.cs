@@ -19,19 +19,10 @@ namespace clientes_DC_szicom
             DateTime fechaInicio = new DateTime(2017, 8, 1);
             DateTime fechaFin = new DateTime(2017, 8, 31);
 
-            var clientesVolContratado = Filtro.FiltrarClientesConVolContratado(clientes, servicios);
-            var clientesConConsumo = Filtro.FiltrarClientesConUnConsumo(clientesVolContratado, consumos);
-            var clientesFD = Filtro.FiltrarClientesFD(clientesConConsumo);
-            var clientesConCDC = Filtro.ClientesConCDC(servicios, fechaInicio);
-
-                Console.WriteLine(clientesConCDC.Count());
+            int[] items = { 1, 2, 3, 4, 3, 55, 23, 2 };
+            int[] itemsDist = items.Distinct().ToArray();
 
 
-            Console.WriteLine($"clientes con vol contratado (286) {clientesVolContratado.Count()}");
-            Console.WriteLine($"clientes con consumo (11284) {clientesConConsumo.Count()}");
-            Console.WriteLine($"clientes FD (49) {clientesFD.Count()}");
-                
-           
 
 
 
